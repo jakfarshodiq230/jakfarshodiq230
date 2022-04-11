@@ -31,10 +31,6 @@
 <br />
 <br />
 
-### 📊 GitHub Stats:
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jakfarshodiq230&show_icons=true&theme=gotham" alt="jakfarshodiq230" />
-
-
 [website]: https://jakfarshodiq.epizy.com/
 [instagram]: https://www.instagram.com/jakfarshodiq96/
 [twitter]: https://twitter.com/jakfar96
