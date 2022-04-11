@@ -1,6 +1,5 @@
 ### Hi there, I'm Jakfar Shodiq <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-
 ### Connect with me:
 
 [<img align="left" alt="jakfar96 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -33,7 +32,7 @@
 <br />
 
 ### 📊 GitHub Stats:
-![Jakfar Shodiq github stats](https://github-readme-stats.vercel.app/api?username=jakfarshodiq230&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jakfarshodiq230&show_icons=true&theme=gotham" alt="jakfarshodiq230" />
 
 
 [website]: https://jakfarshodiq.epizy.com/
@@ -42,3 +41,5 @@
 [facebook]: https://www.facebook.com/jakfarshodiq
 [github]: https://github.com/jakfarshodiq230
 [telegram]: https://t.me/jakfar96
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<br/>
