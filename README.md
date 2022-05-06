@@ -34,7 +34,7 @@
 [website]: https://jakfarshodiq.epizy.com/
 [instagram]: https://www.instagram.com/jakfarshodiq96/
 [twitter]: https://twitter.com/jakfar96
-[facebook]: https://www.facebook.com/jakfarshodiq
+[facebook]: https://www.facebook.com/jakfarshodiq230
 [github]: https://github.com/jakfarshodiq230
 [telegram]: https://t.me/jakfar96
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
