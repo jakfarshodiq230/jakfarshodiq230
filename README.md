@@ -33,7 +33,7 @@
 
 [website]: https://jakfarshodiq.epizy.com/
 [instagram]: https://www.instagram.com/jakfarshodiq96/
-[twitter]: https://twitter.com/jakfar96
+[twitter]: https://twitter.com/96jakfar
 [facebook]: https://www.facebook.com/jakfarshodiq230
 [github]: https://github.com/jakfarshodiq230
 [telegram]: https://t.me/jakfar96
